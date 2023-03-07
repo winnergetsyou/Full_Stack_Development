@@ -7,6 +7,14 @@ var star = 1;
 
 function Function1(number)
 {
+    
+    
+    if (x ==1 && (number % 2)== 0)
+    {
+        Function()
+        n = "CLUE: I am hiding behind HiFi"
+        document.getElementById("clue").innerHTML=n
+    }
     if (x == 0)
     {
         Function()
@@ -15,12 +23,6 @@ function Function1(number)
 
     }
     
-    if (x ==1 && (number % 2)== 0)
-    {
-        Function()
-        n = "CLUE: I am hiding behind HiFi"
-        document.getElementById("clue").innerHTML=n
-    }
     
     if (x ==2 && number == 5)
     {
