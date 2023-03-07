@@ -45,7 +45,6 @@ document.getElementById("points").innerHTML=m
 
 }
 
-alert("hey , I am using alert")
 
 
 console.log("so funny yeah, yes ofcourse")

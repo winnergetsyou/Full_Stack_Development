@@ -1,10 +1,49 @@
+
+
 header
 {
     font-weight: bold;
-    font-size: 16 px ;
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+
+}
+section
+{
+    text-align: center;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1529753253655-470be9a42781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+  
 }
 
 #points
 {
     font-weight: bold;
 }
+
+.door {
+      background-image: url("https://images.unsplash.com/photo-1559871753-75a00941f6b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80");
+
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background-color: #392F8F; 
+  color: white;
+  padding: 150px 50px;
+  text-align: center;
+  text-decoration: tomato;
+  display: -webkit-inline-box;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.two {      background-image: url("https://images.unsplash.com/photo-1558827052-620cb6371c78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80");
+background-color: #8bc8d7;} 
+.three {background-image: url("https://images.unsplash.com/photo-1605433975533-53d5a5cf3387?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8b2xkJTIwZG9vcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"); background-color: #db85b3;}  
+.four {background-image: url("https://images.unsplash.com/photo-1518882542732-7b2826f7b1bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80");   background-size: auto;
+ background-color: #e7e7e7; color: rgb(85, 11, 11);   /* You must set a specified height */
+} 
+.five {background-image: url("https://images.unsplash.com/photo-1550684393-8e0b1468ca57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8RE9PUnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"); background-color: #555555;} 
