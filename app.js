@@ -14,14 +14,15 @@ function Function1(number)
         Function()
         n = "CLUE: I am hiding behind HiFi"
         document.getElementById("clue").innerHTML=n
-         // adding Scroll down
-         window.scrollTo(0,300);
+         
     }
     if (x == 0)
     {
         Function()
         n = "CLUE: culprit hiding behind the Divisible by 2"
        document.getElementById("clue").innerHTML=n
+       // adding Scroll down
+         window.scrollTo(0,300);
 
     }
     
