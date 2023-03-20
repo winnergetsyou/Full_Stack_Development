@@ -14,6 +14,8 @@ function Function1(number)
         Function()
         n = "CLUE: I am hiding behind HiFi"
         document.getElementById("clue").innerHTML=n
+         // adding Scroll down
+         window.scrollTo(0,300);
     }
     if (x == 0)
     {
@@ -39,6 +41,7 @@ function Function1(number)
 
 function Function()
 {
+   
     alert(" You find it ")
  x= x+1;
  console.log(x)
